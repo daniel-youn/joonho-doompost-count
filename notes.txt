@@ -3,3 +3,4 @@ can add fun things:
 - generate random number n 
 - ask gpt or search amazon "if i had {count} of n (denomination) coins/dollar bills what could I buy"
 - if searching internet probably use amazon if they have an api else just ask gpt rq
+- add the log.txt code
